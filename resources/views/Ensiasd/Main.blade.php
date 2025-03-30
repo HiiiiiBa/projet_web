@@ -32,7 +32,7 @@
                     <ul class="nav-links">
                         <li><a href="#about" class="nav-link">À propos</a></li>
                         <li><a href="#formations" class="nav-link">Formations</a></li>
-                        <li><a href="#formations" class="nav-link">Professeurs</a></li>
+                        <li><a href="#formations" class="nav-link">Hiba</a></li>
                         <li><a href="#contact" class="nav-link">Contact</a></li>
                     </ul>
                     <div class="nav-actions">
